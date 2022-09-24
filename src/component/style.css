@@ -1,0 +1,13 @@
+.gridStyle{
+    width: 380px;
+    justify-content: space-between;
+    display: flex;
+    padding: 6px;
+}
+
+.button{
+    width: 380px;
+    justify-content: flex-end;
+    display: flex;
+    padding: 6px;
+}
